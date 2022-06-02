@@ -1,1 +1,3 @@
 Quote 1 - on personal_quotes branch - first commit on this branch
+
+Quote 2 - on personal_quotes branch - second commit on this branch
